@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DataAlgoQuest/static/css/main.000865ce.css",
+    "main.js": "/DataAlgoQuest/static/js/main.1dab6ef1.js",
+    "static/js/453.419a5d54.chunk.js": "/DataAlgoQuest/static/js/453.419a5d54.chunk.js",
+    "static/media/tree.jpg": "/DataAlgoQuest/static/media/tree.3fbebf0588c79031a900.jpg",
+    "static/media/linked-list.jpg": "/DataAlgoQuest/static/media/linked-list.b28030260b86c44a480a.jpg",
+    "static/media/binary-tree.jpg": "/DataAlgoQuest/static/media/binary-tree.1ea86ea4c6f6ebe8bddd.jpg",
+    "static/media/queue.jpg": "/DataAlgoQuest/static/media/queue.41df6461ef5b008b232b.jpg",
+    "static/media/stack.jpg": "/DataAlgoQuest/static/media/stack.ed386d5d097d890d1dac.jpg",
+    "static/media/link-arrow.png": "/DataAlgoQuest/static/media/link-arrow.5cb78fcbab8e9ccf4923.png",
+    "index.html": "/DataAlgoQuest/index.html",
+    "main.000865ce.css.map": "/DataAlgoQuest/static/css/main.000865ce.css.map",
+    "main.1dab6ef1.js.map": "/DataAlgoQuest/static/js/main.1dab6ef1.js.map",
+    "453.419a5d54.chunk.js.map": "/DataAlgoQuest/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.000865ce.css",
+    "static/js/main.1dab6ef1.js"
+  ]
+}
